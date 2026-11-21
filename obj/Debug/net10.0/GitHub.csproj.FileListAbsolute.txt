@@ -1,0 +1,14 @@
+/home/othman-su57/c#/GitHub/bin/Debug/net10.0/GitHub
+/home/othman-su57/c#/GitHub/bin/Debug/net10.0/GitHub.deps.json
+/home/othman-su57/c#/GitHub/bin/Debug/net10.0/GitHub.runtimeconfig.json
+/home/othman-su57/c#/GitHub/bin/Debug/net10.0/GitHub.dll
+/home/othman-su57/c#/GitHub/bin/Debug/net10.0/GitHub.pdb
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.AssemblyInfoInputs.cache
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.AssemblyInfo.cs
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.csproj.CoreCompileInputs.cache
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.dll
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/refint/GitHub.dll
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.pdb
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/GitHub.genruntimeconfig.cache
+/home/othman-su57/c#/GitHub/obj/Debug/net10.0/ref/GitHub.dll
